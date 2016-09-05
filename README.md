@@ -26,5 +26,5 @@ end
 
 ## Install
 ```
-$ gem install ruby-thc-hydra
+$ gem install 'thc-hydra'
 ```
