@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Victor Mello"]
   s.email       = ["victornrm@gmail.com"]
-  s.homepage    = "http://github.com/m0nad/ruby-thc-hydra"
+  s.homepage    = "https://github.com/m0nad/ruby-thc-hydra"
   s.summary     = "Ruby interface for running THC-Hydra"
   s.description = "Provides a Ruby interface for running THC-Hydra"
 
