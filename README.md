@@ -21,8 +21,8 @@ end
 ```
 ## Requirements
 
-* [hydra] >= 8,1
-* [rprogram] ~> 0.3
+* hydra >= 8,1
+* rprogram ~> 0.3
 
 ## Install
 ```
